@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "zFiTC-DXxfVgUC0h5Ewh8zSYq88fpMXMIllBmbJApkU",
+      "y": "AKS_XF-PgFiqnbhXG-xwUJr_QAMcAjkiP3uHUYCEAs0",
+      "alg": "ES256",
+      "use": "sig",
+      "kid": "atcash-privy-local"
+    }
+  ]
+}
